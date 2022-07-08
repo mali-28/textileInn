@@ -32,6 +32,7 @@ export default function OtpInputField() {
       <Box
         sx={{
           height: '90vh',
+
           display: 'flex',
           alignItems: 'center',
           justifyContent: 'center',
@@ -41,7 +42,7 @@ export default function OtpInputField() {
       >
       <Box sx={{
         height: "40%",
-        width: "80%",
+        width: "100%",
         display: "flex",
         flexDirection: "column",
         alignItems: 'center'
